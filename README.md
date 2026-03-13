@@ -1,6 +1,6 @@
-# 🧠 Advanced AI Reasoning Framework
+# 🔍 Autonomous RAG Framework
 
-This repository contains modular components designed to enhance **AI reasoning pipelines** through structured thought processes, iterative retrieval, and multi-source synthesis. The framework is inspired by cutting-edge research in autonomous agents, retrieval-augmented generation (RAG), and self-reflective AI.
+This repository contains modular components designed to enhance **autonomous retrieval-augmented generation (RAG) pipelines** through structured thought processes, self-reflection, query decomposition, iterative retrieval, and multi-source synthesis. The framework is inspired by cutting-edge research in autonomous agents, reasoning systems, and self-improving AI.
 
 ---
 
@@ -31,8 +31,3 @@ This repository contains modular components designed to enhance **AI reasoning p
 - Resolves conflicts between sources using ranking and weighting.
 - Produces concise, context-aware answers.
 
----
-
----
-
-## 📂 Repository Structure
